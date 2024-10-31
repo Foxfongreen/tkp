@@ -1,0 +1,32 @@
+.input-1 {
+    width: 334px;
+    height: 10px;
+    border-radius: 8px;
+    padding: 12px;
+    border: 1px solid rgba(0, 0, 0, 0.144);
+}
+.input-2 {
+    width: 334px;
+    height: 10px;
+    border-radius: 8px;
+    padding: 12px;
+    border: 1px solid rgba(0, 0, 0, 0.144);
+}
+.input-3 {
+    width: 334px;
+    height: 10px;
+    border-radius: 8px;
+    padding: 12px;
+    border: 1px solid rgba(0, 0, 0, 0.144);
+}
+.bttn {
+    display: flex;
+    float: left;
+    align-items: center;
+}
+.button {
+    background-color: rgb(35, 142, 209);
+    color: white;
+    border: none;
+    border-radius: 8px;
+}
